@@ -9,7 +9,7 @@ Customer churn prediction is a binary classification problem. This project uses 
 
 ### Dataset
 
-- File: `data/customer_churn_15000-3.csv`
+- File: `data/customer_churn_15000.csv`
 - Rows: 15,100 before duplicate removal
 - Columns: 17
 - Target: `churn`
